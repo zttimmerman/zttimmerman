@@ -38,9 +38,9 @@
 
 # Stats
 
-[![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=zttimmerman)](https://github.com/anuraghazra/github-readme-stats)
+[![Zach's GitHub stats](https://github-readme-stats.vercel.app/api?username=zttimmerman&rank_icon=github&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zttimmerman)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zttimmerman&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 zttimmerman/zttimmerman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
